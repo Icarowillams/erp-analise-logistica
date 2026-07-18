@@ -62,7 +62,7 @@ O sistema é usado **diariamente** pelos setores comercial, logística, produç�
 
 ## 📄 Documentação
 
-📥 **[Portfólio Técnico Completo (PDF)](./Portfolio_Analise_Logistica.pdf)** — arquitetura detalhada, decisões técnicas e impacto de negócio.
+📥 **[Portfólio Técnico Completo (PDF)](./Portfolio_Comercial_Logistica.pdf)** — arquitetura detalhada, decisões técnicas e impacto de negócio.
 
 ---
 
