@@ -32,8 +32,8 @@ O sistema é usado **diariamente** pelos setores comercial, logística, produç�
 | 🧩 Componentes React | **235** |
 | 🗃️ Entidades de dados | **69** |
 | 👥 Usuários ativos | **20+** |
-| 🧑‍💼 Vendedores | **81** |
-| 🏪 Clientes | **1.157** |
+| 🧑‍💼 Vendedores | **+30** |
+| 🏪 Clientes | **+800** |
 
 ---
 
